@@ -35,7 +35,6 @@ removeTodo filename [index] = do
     hPutStr tmpHandle (unlines todos')
     hClose tmpHandle
     renameFile tmpFile filename
-    print indexNo
 
 
 dispatch = [("view", viewTodos),
