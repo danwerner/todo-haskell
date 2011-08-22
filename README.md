@@ -18,4 +18,4 @@ Copyright (C) 2011  Daniel D. Werner
 
 Distributed under the 2-clause BSD License. See the file COPYING.
 
-Based on an excercise in an awesome book by [Miran Lipovača](http://learnyouahaskell.com/input-and-output).
+Based on an excercise in an awesome book by [Miran Lipovača](http://learnyouahaskell.com/).
